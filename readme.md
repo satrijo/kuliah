@@ -1,4 +1,3 @@
-Informasi Mata Perkuliahan:
-1. Algoritma Pemrograman
-2. Dasar Pemrograman
-3. Pemrograman Visual
+Informasi Mata Perkuliahan: Algoritma Pemrograman
+
+Soal UTS : https://drive.google.com/drive/folders/1zq8A4kuBuccW1XwwO8e67DQPyIsS6Sx4
